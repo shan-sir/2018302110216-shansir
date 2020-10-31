@@ -1,0 +1,50 @@
+﻿  64 bit MIDLRT Processing D:\Windows原理\WinUItest\WinUItest\App.idl
+  App.idl
+  64 bit MIDLRT Processing D:\Windows Kits\10\Include\10.0.19041.0\winrt\winrtbase.idl
+  winrtbase.idl
+  64 bit MIDLRT Processing D:\Windows Kits\10\Include\10.0.19041.0\winrt\midlbase.idl
+  midlbase.idl
+  Processing WinMD d:\windows???\winuitest\packages\microsoft.winui.3.0.0-preview2.200713.0\lib\uap10.0\microsoft.graphics.winmd
+midlrt : error MIDL1001: [msg]cannot open input file [context]Error opening or processing WinMD d:\windows鍘熺悊\winuitest\packages\microsoft.winui.3.0.0-preview2.200713.0\lib\uap10.0\microsoft.graphics.winmd. HRESULT 0x80070003.
+D:\Windows原理\WinUItest\WinUItest\App.idl(1): error MIDL5157: [msg]An invalid winmd file was specified for import [context]: D:\Windows鍘熺悊\WinUItest\packages\Microsoft.WinUI.3.0.0-preview2.200713.0\lib\uap10.0\Microsoft.Graphics.winmd
+  Processing WinMD d:\windows???\winuitest\packages\microsoft.winui.3.0.0-preview2.200713.0\lib\uap10.0\microsoft.system.winmd
+midlrt : error MIDL1001: [msg]cannot open input file [context]Error opening or processing WinMD d:\windows鍘熺悊\winuitest\packages\microsoft.winui.3.0.0-preview2.200713.0\lib\uap10.0\microsoft.system.winmd. HRESULT 0x80070003.
+D:\Windows原理\WinUItest\WinUItest\App.idl(1): error MIDL5157: [msg]An invalid winmd file was specified for import [context]: D:\Windows鍘熺悊\WinUItest\packages\Microsoft.WinUI.3.0.0-preview2.200713.0\lib\uap10.0\Microsoft.System.winmd
+  Processing WinMD d:\windows???\winuitest\packages\microsoft.winui.3.0.0-preview2.200713.0\lib\uap10.0\microsoft.ui.text.winmd
+midlrt : error MIDL1001: [msg]cannot open input file [context]Error opening or processing WinMD d:\windows鍘熺悊\winuitest\packages\microsoft.winui.3.0.0-preview2.200713.0\lib\uap10.0\microsoft.ui.text.winmd. HRESULT 0x80070003.
+D:\Windows原理\WinUItest\WinUItest\App.idl(1): error MIDL5157: [msg]An invalid winmd file was specified for import [context]: D:\Windows鍘熺悊\WinUItest\packages\Microsoft.WinUI.3.0.0-preview2.200713.0\lib\uap10.0\Microsoft.UI.Text.winmd
+  Processing WinMD d:\windows???\winuitest\packages\microsoft.winui.3.0.0-preview2.200713.0\lib\uap10.0\microsoft.ui.winmd
+midlrt : error MIDL1001: [msg]cannot open input file [context]Error opening or processing WinMD d:\windows鍘熺悊\winuitest\packages\microsoft.winui.3.0.0-preview2.200713.0\lib\uap10.0\microsoft.ui.winmd. HRESULT 0x80070003.
+D:\Windows原理\WinUItest\WinUItest\App.idl(1): error MIDL5157: [msg]An invalid winmd file was specified for import [context]: D:\Windows鍘熺悊\WinUItest\packages\Microsoft.WinUI.3.0.0-preview2.200713.0\lib\uap10.0\Microsoft.UI.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.ai.machinelearning.machinelearningcontract\3.0.0.0\windows.ai.machinelearning.machinelearningcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract\2.0.0.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.calls.background.callsbackgroundcontract\2.0.0.0\windows.applicationmodel.calls.background.callsbackgroundcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.calls.callsphonecontract\5.0.0.0\windows.applicationmodel.calls.callsphonecontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.calls.callsvoipcontract\4.0.0.0\windows.applicationmodel.calls.callsvoipcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.communicationblocking.communicationblockingcontract\2.0.0.0\windows.applicationmodel.communicationblocking.communicationblockingcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.socialinfo.socialinfocontract\2.0.0.0\windows.applicationmodel.socialinfo.socialinfocontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.startuptaskcontract\3.0.0.0\windows.applicationmodel.startuptaskcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.devices.custom.customdevicecontract\1.0.0.0\windows.devices.custom.customdevicecontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.devices.deviceslowlevelcontract\3.0.0.0\windows.devices.deviceslowlevelcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.devices.printers.printerscontract\1.0.0.0\windows.devices.printers.printerscontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.devices.smartcards.smartcardbackgroundtriggercontract\3.0.0.0\windows.devices.smartcards.smartcardbackgroundtriggercontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.devices.smartcards.smartcardemulatorcontract\6.0.0.0\windows.devices.smartcards.smartcardemulatorcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.foundation.foundationcontract\4.0.0.0\windows.foundation.foundationcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.foundation.universalapicontract\10.0.0.0\windows.foundation.universalapicontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.gaming.xboxlive.storageapicontract\1.0.0.0\windows.gaming.xboxlive.storageapicontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.graphics.printing3d.printing3dcontract\4.0.0.0\windows.graphics.printing3d.printing3dcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.networking.connectivity.wwancontract\2.0.0.0\windows.networking.connectivity.wwancontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.networking.sockets.controlchanneltriggercontract\3.0.0.0\windows.networking.sockets.controlchanneltriggercontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.security.isolation.isolatedwindowsenvironmentcontract\1.0.0.0\windows.security.isolation.isolatedwindowsenvironmentcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.services.maps.guidancecontract\3.0.0.0\windows.services.maps.guidancecontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.services.maps.localsearchcontract\4.0.0.0\windows.services.maps.localsearchcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.services.store.storecontract\4.0.0.0\windows.services.store.storecontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.services.targetedcontent.targetedcontentcontract\1.0.0.0\windows.services.targetedcontent.targetedcontentcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.storage.provider.cloudfilescontract\4.0.0.0\windows.storage.provider.cloudfilescontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.system.profile.profilehardwaretokencontract\1.0.0.0\windows.system.profile.profilehardwaretokencontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.system.profile.profilesharedmodecontract\2.0.0.0\windows.system.profile.profilesharedmodecontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract\3.0.0.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.system.systemmanagementcontract\7.0.0.0\windows.system.systemmanagementcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract\1.0.0.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract.winmd
+  Processing WinMD d:\windows kits\10\references\10.0.19041.0\windows.ui.xaml.core.direct.xamldirectcontract\2.0.0.0\windows.ui.xaml.core.direct.xamldirectcontract.winmd
+D:\Windows原理\WinUItest\WinUItest\App.idl(4): warning MIDL2214: [msg]semantic check incomplete due to previous errors
